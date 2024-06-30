@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate software Engineering Student who 
 -->
 ## 🚀 Projects
 
-### [Project 1: Online Learning Platform: Microservices Architecture](https://github.com/kirusanth-08/project1](https://github.com/kirusanth-08/OnlineLearningPlatform-DS)
+### [Project 1: Online Learning Platform: Microservices Architecture](https://github.com/kirusanth-08/OnlineLearningPlatform-DS)
 - **Description:** Project named Online Learning which enables the learners to enroll a course and instructors to create courses.
 - **Tech Stack:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black), ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white), ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white), ![Express.js](https://img.shields.io/badge/-Express.js-000?style=flat-square&logo=express&logoColor=white)
 <!--  remove the comments when not necessary
