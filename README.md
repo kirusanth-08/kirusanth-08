@@ -1,7 +1,7 @@
 # Hi there, I'm Kirusanth 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-kirusanth-s-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kirusanth-s)](https://www.linkedin.com/in/kirusanth-s/)
-[![GitHub Badge](https://img.shields.io/badge/-kirsuanth-08-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/kirusanth-08)](https://github.com/kirusanth-08)
+[![Linkedin Badge](https://img.shields.io/badge/-kirusanth--s-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kirusanth-s)](https://www.linkedin.com/in/kirusanth-s)
+[![GitHub Badge](https://img.shields.io/badge/-kirusanth--08-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/kirusanth-08)](https://github.com/kirusanth-08)
 
 Welcome to my GitHub profile! I'm a passionate software Engineering Student who loves to explore new technologies and build innovative projects.
 
@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate software Engineering Student who 
 
 ## 🚀 Projects
 
-### [Project 1: Online Learning Platform: Microservices Architecture](https://github.com/kirusanth-08/project1)
+### [Project 1: Online Learning Platform: Microservices Architecture]([https://github.com/kirusanth-08/project1](https://github.com/kirusanth-08/OnlineLearningPlatform-DS))
 - **Description:** Project named Online Learning which enables the learners to enroll a course and instructors to create courses.
 - **Tech Stack:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black), ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white), ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white), ![Express.js](https://img.shields.io/badge/-Express.js-000?style=flat-square&logo=express&logoColor=white)
 <!--  remove the comments when not necessary
@@ -53,4 +53,4 @@ Welcome to my GitHub profile! I'm a passionate software Engineering Student who 
 I believe in writing clean, maintainable, and scalable code. I'm passionate about learning new things and sharing my knowledge with others.
 
 
-Thanks for visiting my GitHub profile! Feel free to reach out if you want to collaborate on a project or just say hi! 😊
+Thanks for visiting my GitHub profile! Feel free to reach out if you want to collaborate on a project or just say hi via LinkedIn! 😊
