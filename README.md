@@ -44,3 +44,14 @@ Hi! I'm Kirusanth, a passionate Software Engineer student at the Sri Lanka Insti
 * Add more project sections if you have more projects. 
 * You can also customize the content to reflect your interests and goals.
 
+I'm a software engineer, specializing in computer science and engineering, with a degree from the University of Moratuwa, Sri Lanka. Currently, I'm actively engaged in crafting innovative solutions in the software industry.
+
+
+
+
+🌐 Socials:
+LinkedIn
+
+💻 Tech Stack:
+Java JavaScript HTML5 PHP Python CSS3 Firebase Google Cloud Heroku Angular Bootstrap Expo Express.js jQuery NPM NodeJS UNITY React React Native Postgres MySQL MongoDB Keras NumPy Pandas PyTorch scikit-learn TensorFlow ElasticSearch Docker Postman Swagger Canva Figma Adobe Photoshop
+
