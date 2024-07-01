@@ -1,5 +1,4 @@
 # Hi there, I'm Kirusanth 👋
-[![GitHub](https://img.shields.io/github/user/kirusanth-08.svg?style=social)](https://github.com/kirusanth-08)
 
 [![Linkedin Badge](https://img.shields.io/badge/-kirusanth--s-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kirusanth-s)](https://www.linkedin.com/in/kirusanth-s)
 [![GitHub Badge](https://img.shields.io/badge/-kirusanth--08-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/kirusanth-08)](https://github.com/kirusanth-08)
